@@ -5,6 +5,7 @@ scipy>=1.10.0
 
 # Machine Learning
 scikit-learn>=1.2.0
+yellowbrick>=1.5
 
 # Visualization
 matplotlib>=3.6.0

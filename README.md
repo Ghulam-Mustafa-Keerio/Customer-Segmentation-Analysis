@@ -2,7 +2,7 @@
 
 ### *Uncovering Shopping Patterns and Customer Behaviors through Data Science*
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Data Science](https://img.shields.io/badge/Data-Science-green)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![Clustering](https://img.shields.io/badge/Clustering-Unsupervised-red)
@@ -114,7 +114,7 @@ Understanding customer behavior is crucial for retail success. This project anal
 ### Programming & Libraries
 
 ```
-Python 3.8+
+Python 3.9+
 ├── Data Manipulation
 │   ├── pandas
 │   ├── numpy
@@ -136,7 +136,7 @@ Python 3.8+
 ## 📦 Installation & Setup
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.9 or higher
 - pip package manager
 - 4GB RAM minimum
 
